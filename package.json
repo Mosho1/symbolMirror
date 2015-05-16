@@ -1,0 +1,20 @@
+{
+  "name": "symbolMirror",
+  "version": "0.0.1",
+  "description": "A utility for creating an object with symbol values. Inspired by react/lib/keyMirror",
+  "main": "index.js",
+  "author": "Sharon Rolel",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mosho1/symbolMirror"
+  },
+  "licenses": [
+    {
+      "type": "Apache-2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0"
+    }
+  ],
+  "dependencies": {
+    "es6-symbol": "^2.0.1"
+  }
+}
